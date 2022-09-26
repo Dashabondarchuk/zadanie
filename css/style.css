@@ -1,0 +1,77 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+}
+
+div,
+p,
+input,
+header,
+a,
+form {
+	box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	padding: 0;
+	margin: 0;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 38px;
+	margin-bottom: 47px;
+}
+
+h3 {
+	font-size: 19px;
+
+}
+
+section {
+	padding-top: ;
+}
+
+ul,
+li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	transition:
+		/* all 0.5s ease*/
+	;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	/*font-size: 80px;*/
+	font-size: 114px;
+}
+
+h2 {
+	/*font-size: 80px;*/
+}
+
+button:active,
+button:focus {
+	outline: none;
+}
+
+button::-moz-focus-inner {
+	border: 0;
+}
