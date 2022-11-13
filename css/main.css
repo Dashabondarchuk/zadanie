@@ -946,3 +946,8 @@ input[type=range]::-moz-range-thumb {
 	position: absolute;
 	bottom: 0px;
 }
+.foter__list__item__coc img{
+	width:26px ;
+	height: 26px;
+
+}
